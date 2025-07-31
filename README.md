@@ -39,8 +39,8 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [SolutionURL](https://www.frontendmentor.io/solutions/interactive-rating-component-clamp-test-hHFI46Qsld)
+-   Live Site URL: [LiveSiteURL](https://frontend-mentor-rating-card.netlify.app/)
 
 ## My process
 
@@ -57,3 +57,7 @@ As i said the thing that took me the most time on this was getting the hang of t
 ### What I learned
 
 clamp() function which is used for responsive designs.Its used in font sizes ,margins ,paddings ,widths ,heights etc,
+
+## Author
+
+-   Frontend Mentor - [@kvncodes](https://www.frontendmentor.io/profile/@kvncodes)
